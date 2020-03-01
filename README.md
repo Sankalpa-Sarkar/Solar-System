@@ -1,2 +1,3 @@
 # Solar-System
 A simulation of the solar system, built on Unity 3D and scripted in C#, this simulation is developed as part of a Coursera course conducted by Michigan State University.
+The coding of the scripts in this project was done in C# language on the Microsoft Visual Studio IDE, aided by the Unity Scripting Reference as well as the Microsoft Azure .NET Coding  Reference.  The game is built on the Unity 3D platform developed by Unity Technologies and employs the rotational and revolutionary movement of all planets in the Solar System demonstrating the original movement of a parent-child relationship as well as the skybox materials as well as the albedo skins on each gameObject.
